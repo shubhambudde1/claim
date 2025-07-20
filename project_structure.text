@@ -1,0 +1,40 @@
+- backend
+  - .env
+  - ClaimHistory.js
+  - claims.js
+  - db.js
+  - package-lock.json
+  - package.json
+  - server.js
+  - user.js
+  - users.js
+- claim
+  - .gitignore
+  - eslint.config.js
+  - index.html
+  - package-lock.json
+  - package.json
+  - public
+    - vite.svg
+  - README.md
+  - src
+    - api
+      - api.ts
+      - components
+        - ClaimButton.tsx
+        - ClaimHistory.tsx
+        - Leaderboard.tsx
+        - UserSelector.tsx
+    - App.css
+    - App.tsx
+    - assets
+      - react.svg
+    - index.css
+    - main.tsx
+    - vite-env.d.ts
+  - tailwind.config.js
+  - tsconfig.app.json
+  - tsconfig.json
+  - tsconfig.node.json
+  - vite.config.ts
+- vercel.json
